@@ -160,11 +160,23 @@ This is my own contribution to this list 🙂
 
 ## On research rigor and research process
 
+- [📄 *Strong Inference: Certain systematic methods of scientific thinking may produce much more rapid progress than others*, John R. Platt](https://www.science.org/doi/10.1126/science.146.3642.347)
+
+- [📄 *Why Most Published Research Findings Are False*, John P. A. Ioannidis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+
 - [📄 *Scientific Conjectures and the Growth of Knowledge*, Sanjit Chakraborty](https://link.springer.com/article/10.1007/s40961-021-00231-z)
 
 - [📖 *What is this thing called science*, Alan Chalmers](https://ebookppsunp.wordpress.com/wp-content/uploads/2016/06/alan_chalmers_what_is_this_thing_called_sciencebookfi-org.pdf)
 
 - [📖 *The Craft of Research*, Wayne C. Booth et al.](https://library.uniq.edu.iq/storage/books/file/The%20Craft%20of%20Research/1667121038craft.pdf)
+
+- [📖 *On Being a Scientist: A Guide to Responsible Conduct in Research*, National Academy of Sciences](https://nap.nationalacademies.org/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in)
+
+- [📖 *Scientific Integrity: Text and Cases in Responsible Conduct of Research*, Francis L. Macrina](https://www.amazon.com/Scientific-Integrity-Responsible-Conduct-Research/dp/1555816614)
+
+- [📖 *Scientific Method in Practice*, Hugh G. Gauch Jr.](https://www.amazon.com/Scientific-Method-Practice-Hugh-Gauch/dp/0521017084)
+
+- [📖 *Scientific Method in Brief*, Hugh G. Gauch Jr.](https://www.amazon.com/Scientific-Method-Brief-Hugh-Gauch/dp/1107666724)
 
 ### On creativity
 
