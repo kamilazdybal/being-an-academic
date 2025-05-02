@@ -2,18 +2,21 @@
 
 This repository is a collection of resources (with links) to help you in your research and academic journey.
 This collection has been curated from sources that I myself have read/watched and found useful.
-For each item in the collection, I have selected one "notable quote" that I liked.
-Occasionally, I will add my own note on the item. 
+For some items in the collection, I have selected one "notable quote" that I liked.
+Occasionally, I will also add my own thought on the item. 
 
 All the best to your journey, and I hope that you find this collection helpful! 🙂
 
 **Legend for the icons used:**
 
+- 🎥 : A video
+- 🎧 : A podcast
 - 📄 : A short article
 - 📖 : A book
-- 🎥 : A video
 - 🏛️ : A course
-- 🎧 : A podcast
+
+**Note:** The order on each list follows this icon hierarchy, with videos first, podcasts second, and so on. 
+Otherwise, there is no particular hierarchy, you can start with whichever item you feel like!
 
 **Table of contents:**
 
@@ -40,10 +43,6 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 ### On the writing craft in general
 
-- [🏛️ *Writing in the Sciences*, Kristin Sainani](https://www.coursera.org/learn/sciwrite)
-
-> 
-
 - [📄 *Academic Writing, I Love You. Really, I Do.*, Eric Hayot](https://www.jstor.org/stable/10.1086/678157?seq=1#metadata_info_tab_contents)
 
 > 
@@ -57,14 +56,6 @@ All the best to your journey, and I hope that you find this collection helpful! 
 - [📄 *How to Write a Thesis, According to Umberto Eco*, Umberto Eco](https://thereader.mitpress.mit.edu/umberto-eco-how-to-write-a-thesis/)
 
 > ***You are not Proust.** Do not write long sentences. If they come into your head, write them, but then break them down.*
-
-- [📖 *The Writing Workshop*, Barbara W. Sarnecka](https://osf.io/z4n3t)
-
->
-
-- [📖 *The Elements of Style*, William Strunk](https://daoyuan14.github.io/elos.pdf)
-
-> 
 
 - [📄 *Technical Writing and Publishing*, Dipankar Deb](https://link.springer.com/chapter/10.1007/978-981-13-2947-0_6)
 
@@ -95,14 +86,29 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
+- [📖 *The Writing Workshop*, Barbara W. Sarnecka](https://osf.io/z4n3t)
+
+>
+
+- [📖 *The Elements of Style*, William Strunk](https://daoyuan14.github.io/elos.pdf)
+
+> 
+
+- [🏛️ *Writing in the Sciences*, Kristin Sainani](https://www.coursera.org/learn/sciwrite)
+
+> 
+
 ### On writing mathematics
+
+- [🎥 *Paul Halmos on Mathematical Writing*, Paul R. Halmos](https://www.youtube.com/watch?v=Cy_1JgYfKmE)
+
+> 
 
 - [📄 *How to write mathematics*, Paul R. Halmos](https://sites.math.washington.edu//~lind/Resources/Halmos.pdf)
 
 >
 
-
-- [🎥 *Paul Halmos on Mathematical Writing*, Paul R. Halmos](https://www.youtube.com/watch?v=Cy_1JgYfKmE)
+- [📄 *Some Guidelines for Good Mathematical Writing*, Francis Edward Su](https://math.rice.edu/~notlaw/Su-Guidelines_for_Good_Mathematical_Writing.pdf)
 
 > 
 
@@ -110,23 +116,23 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
-- [📄 *Some Guidelines for Good Mathematical Writing*, Francis Edward Su](https://math.rice.edu/~notlaw/Su-Guidelines_for_Good_Mathematical_Writing.pdf)
-
-> 
-
-
-
 ### On writing journal publications
 
 - [🎥 *How to write a great research paper*, Simon Peyton Jones](https://sms.cam.ac.uk/media/1464870/)
 
-Beautiful talk, highly recommend 🙂
+↑ Beautiful talk, highly recommend 🙂
 
 > *Credit is like love. Credit is a commodity that is infinitely divisible.
 > If I have 10 pounds and I give you 5 pounds, how much do I have left? 5 pounds.
 > If I have love and I give you love, how much love do I have left? As much as I ever had, and maybe more!
 > And credit is just like this; you can say very nice things about other peoples' stuff. (...)
 > So if you've read a paper that you found inspiring, make a moment in your paper to say: It was an inspiring paper.*
+
+- [🎥 *LEADERSHIP LAB: The Craft of Writing Effectively*, Larry McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM&feature=youtu.be)
+
+↑ This lecture has been very formative for me, highly recommend.
+
+> 
 
 - [📄 *How to write the introduction of a scientific article*, Jorge Faber](https://www.jwfo.org/article/S2212-4438(12)00049-5/fulltext)
 
@@ -164,12 +170,6 @@ Beautiful talk, highly recommend 🙂
 
 > 
 
-- [🎥 *LEADERSHIP LAB: The Craft of Writing Effectively*, Larry McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM&feature=youtu.be)
-
-↑ This lecture has been very formative for me, highly recommend.
-
-> 
-
 - [📄 *How to write a first-class paper*, Virginia Gewin](https://www.nature.com/articles/d41586-018-02404-4)
 
 > 
@@ -198,13 +198,26 @@ Beautiful talk, highly recommend 🙂
 
 ## On being a Ph.D. student
 
-- [📄 *How to complete a PhD?*, Kamila Zdybał](https://www.researchgate.net/publication/377627650_How_to_complete_a_PhD)
+- [🎥 *The characteristics of the best PhD students*, Tara Brabazon](https://www.youtube.com/watch?v=2ArionKnvXc)
 
-This is my own contribution to this list 🙂
+I kept coming back to this video throughout my Ph.D. to remind myself what kind of student I'd like to be!
 
 > 
 
-- [📖 *The A-Z of the PhD Trajectory*, Eva O. L. Lantsoght](https://link.springer.com/book/10.1007/978-3-319-77425-1)
+- [🎥 *Who are the most challenging students to supervise*, Tara Brabazon](https://www.youtube.com/watch?v=Fo7WE2vFfyc)
+
+...and to this one, to remind myself what student not to be 😉
+
+>
+
+
+- [🎥 *7 Steps to a Positive Relationship with your PhD Supervisor*, James Arvanitakis](https://youtu.be/0pGyjMaZgQ0?si=dpqbFgXSxOcbQWLP)
+
+> 
+
+- [📄 *How to complete a PhD?*, Kamila Zdybał](https://www.researchgate.net/publication/377627650_How_to_complete_a_PhD)
+
+This is my own contribution to this list 🙂
 
 > 
 
@@ -212,6 +225,9 @@ This is my own contribution to this list 🙂
 
 >
 
+- [📖 *The A-Z of the PhD Trajectory*, Eva O. L. Lantsoght](https://link.springer.com/book/10.1007/978-3-319-77425-1)
+
+> 
 
 ## On research rigor and research process
 
@@ -254,7 +270,7 @@ I have a physical copy of this book, if you live in the same town you can contac
 
 ## On the imposter syndrome
 
-
+- [🎥 *Impostor syndrome*, Tara Brabazon](https://youtu.be/6I9pIqjtnKo?si=564hcv3ko4ZBZkKz)
 
 ## On teaching and learning
 
@@ -269,17 +285,11 @@ I have a physical copy of this book, if you live in the same town you can contac
 
 - [📄 *Teaching the science of learning*, Yana Weinstein et al.](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y)
 
-> *The proposed explanation for the benefit of interleaving is that switching between different problem types 
-> allows students to acquire the ability to choose the right method for solving different types of problems 
-> rather than learning only the method itself, and not when to apply it.*
-
-
-
+> 
 
 - [📄 *No cops in the lecture hall: cheating and what (not) to do about it*, Rashid Amerzaine et al.](https://www.justmathematicscollective.net/cheating.pdf)
 
 > 
-
 
 - [📄 *Educating for Intellectual Virtues: From Theory to Practice*, Jason Baehr](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9752.12023)
 
@@ -292,6 +302,15 @@ I have a physical copy of this book, if you live in the same town you can contac
 - [📄 *From Bad Apples to Zombies? Walking Dead Leadership in the Contemporary University*, Tara Brabazon](https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/376)
 
 > 
+
+## On presenting
+
+- [🎥 *Creating effective slides: Design, Construction, and Use in Science*, Jean-luc Doumont](https://youtu.be/meBXuTIPJQk?si=RIbwR6yHo5nSW6rN)
+
+Beautiful talk!
+
+- [🎥 *Communicating Science to Nonscientists*, Jean-luc Doumont](https://youtu.be/IFu3jaLmse0?si=QFHXRpVyNEgOHI12)
+
 
 ## On grants
 
@@ -322,10 +341,9 @@ I have a physical copy of this book, if you live in the same town you can contac
 > We may feel that we must grow out of these discussions once we become independent scientists, 
 > when in fact they remain our most powerful tool for expanding our science into the unknown.*
 
-
-
 ## On mentoring
 
+- [🎥 *How to be an awesome supervisor*, Tara Brabazon](https://youtu.be/0uiHwHfssAw?si=hKS-P-3iXpnNq8Hl)
 
 
 ## On designing figures and graphics
