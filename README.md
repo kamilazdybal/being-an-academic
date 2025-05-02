@@ -20,6 +20,7 @@ All the best to your journey, and I hope that you find this collection helpful! 
 - [On academic writing](#on-academic-writing)
   - [On the writing craft in general](#on-the-writing-craft-in-general)
   - [On writing journal publications](#on-writing-journal-publications)
+  - [On writing mathematics](#on-writing-mathematics)
 - [On failing](#on-failing)
 - [On being a Ph.D. student](#on-being-a-ph.d.-student)
 - [On research rigor and research process](#on-research-rigor-and-research-process)
@@ -37,6 +38,10 @@ All the best to your journey, and I hope that you find this collection helpful! 
 ## On academic writing
 
 ### On the writing craft in general
+
+- [🏛️ *Writing in the Sciences*, Kristin Sainani](https://www.coursera.org/learn/sciwrite)
+
+> 
 
 - [📄 *Academic Writing, I Love You. Really, I Do.*, Eric Hayot](https://www.jstor.org/stable/10.1086/678157?seq=1#metadata_info_tab_contents)
 
@@ -57,6 +62,30 @@ All the best to your journey, and I hope that you find this collection helpful! 
 >
 
 - [📖 *The Elements of Style*, William Strunk](https://daoyuan14.github.io/elos.pdf)
+
+> 
+
+- [📄 *Technical Writing and Publishing*, Dipankar Deb](https://link.springer.com/chapter/10.1007/978-981-13-2947-0_6)
+
+> 
+
+### On writing mathematics
+
+- [📄 *How to write mathematics*, Paul R. Halmos](https://sites.math.washington.edu//~lind/Resources/Halmos.pdf)
+
+>
+
+
+- [🎥 *Paul Halmos on Mathematical Writing*, Paul R. Halmos](https://www.youtube.com/watch?v=Cy_1JgYfKmE)
+
+> 
+
+- [📖 *Mathematical Writing*, Donald E. Knuth et al.](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+
+> 
+
+
+- [📄 *Some Guidelines for Good Mathematical Writing*, Francis Edward Su](https://math.rice.edu/~notlaw/Su-Guidelines_for_Good_Mathematical_Writing.pdf)
 
 > 
 
@@ -104,6 +133,22 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
+- [📄 *How to write a first-class paper*, Virginia Gewin](https://www.nature.com/articles/d41586-018-02404-4)
+
+> 
+
+- [📄 *Writing a scientific article: A step-by-step guide for beginners*, F. Ecarnot](https://www.sciencedirect.com/science/article/pii/S1878764915001606)
+
+> 
+
+- [📖 *How to Write a Good Scientific Paper*, Chris A. Mack](https://spie.org/samples/9781510619142.pdf)
+
+> 
+
+- [📄 *Whitesides' Group: Writing a Paper*, George M. Whitesides](https://www2.tulane.edu/~lamp/whiteside.pdf)
+
+> 
+
 ## On failing
 
 - [🎥 *Failure (and how to manage it)*, Tara Brabazon](https://www.youtube.com/watch?v=JTwFM51-oqc&t=8s&pp=0gcJCYQJAYcqIYzv)
@@ -141,7 +186,7 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 - [📖 *Creativity: A Short and Cheerful Guide*, John Cleese](https://www.amazon.com/Creativity-Short-Cheerful-John-Cleese/dp/0385348274)
 
-I have the physical copy of this book, if you live in the same town, you can contact me ;)
+I have a physical copy of this book, if you live in the same town, you can contact me 😉
 
 > 
 
