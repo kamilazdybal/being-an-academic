@@ -12,6 +12,16 @@ Here is the legend for the icons used:
 - 🏛️ : A course
 - 🎧 : A podcast
 
+Table of contents:
+
+- [On academic writing](#on-academic-writing)
+  - [On the writing craft in general](#on-the-writing-craft-in-general)
+  - [On writing journal publications](#on-writing-journal-publications)
+- [On designing figures and graphics](#on-designing-figures-and-graphics)
+
+
+- - - - 
+
 ## On academic writing
 
 ### On the writing craft in general
