@@ -70,6 +70,22 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
+- [📄 *The art of writing science*, Kevin W. Plaxco](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.514)
+
+>
+
+- [📄 *The triad of scientific publication: Reading, writing, and reviewing*, John M. Butler](https://www.sciencedirect.com/science/article/pii/S1875176813000607)
+
+>
+
+- [📄 *Sit Down and Write Your Thesis! Practical and Motivational Tips for Scientific Writing*, Geneviève Belleville](https://www.sciencedirect.com/science/article/pii/S0828282X19302727)
+
+>
+
+- [📄 *How to write anything*, Richard M. Felder & Rebecca Brent](https://engr.ncsu.edu/wp-content/uploads/drive/1kDu0-UG3k3xQQhkLHN-i6kTwilzj4m7k/2008-r_WriteAnything.pdf)
+
+>
+
 ### On writing mathematics
 
 - [📄 *How to write mathematics*, Paul R. Halmos](https://sites.math.washington.edu//~lind/Resources/Halmos.pdf)
@@ -195,15 +211,15 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 - [📖 *Creativity: A Short and Cheerful Guide*, John Cleese](https://www.amazon.com/Creativity-Short-Cheerful-John-Cleese/dp/0385348274)
 
-I have a physical copy of this book, if you live in the same town, you can contact me 😉
+I have a physical copy of this book, if you live in the same town you can contact me 😉
 
 > 
 
 ## On being an early-career academic
 
-- [📖 *Making the Most of the Postdoc 1st Edition*, James Gould](https://www.amazon.com/Making-Most-Postdoc-James-Gould/dp/1032246782)
+- [📖 *Making the Most of the Postdoc*, James Gould](https://www.amazon.com/Making-Most-Postdoc-James-Gould/dp/1032246782)
 
-I have a physical copy of this book, if you live in the same town, you can contact me 😉
+I have a physical copy of this book, if you live in the same town you can contact me 😉
 
 > 
 
