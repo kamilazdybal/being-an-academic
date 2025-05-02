@@ -24,7 +24,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
   - [On the writing craft in general](#on-the-writing-craft-in-general)
   - [On writing journal publications](#on-writing-journal-publications)
   - [On writing mathematics](#on-writing-mathematics)
-- [On failing](#on-failing)
+- [On managing failure](#on-managing-failure)
 - [On being a PhD student](#on-being-a-phd-student)
 - [On research rigor and research process](#on-research-rigor-and-research-process)
   - [On creativity](#on-creativity)
@@ -132,7 +132,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 
 - [📖 *How to Write a Good Scientific Paper*, Chris A. Mack](https://spie.org/samples/9781510619142.pdf)
 
-## On failing
+## On managing failure
 
 - [🎥 *Failure (and how to manage it)*, Tara Brabazon](https://www.youtube.com/watch?v=JTwFM51-oqc&t=8s&pp=0gcJCYQJAYcqIYzv)
 
