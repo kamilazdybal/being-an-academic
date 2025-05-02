@@ -95,7 +95,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 ↑ Beautiful talk, highly recommend 🙂
 
 > *Credit is like love. Credit is a commodity that is infinitely divisible.
-> If I have 10 pounds and I give you 5 pounds, how much do I have left? 5 pounds.
+> (...)
 > If I have love and I give you love, how much love do I have left? As much as I ever had, and maybe more!
 > And credit is just like this; you can say very nice things about other peoples' stuff. (...)
 > So if you've read a paper that you found inspiring, make a moment in your paper to say: It was an inspiring paper.*
@@ -109,8 +109,6 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 > *The rigidity and conciseness of scientific language should not be allowed to undermine the elegance of a text.*
 
 - [📄 *Skillful writing of an awful research paper*, Royce Murray](https://pubs.acs.org/doi/10.1021/ac2000169)
-
-> *(...) So these are a few simple rules for poor scientific writing. If you follow them faithfully and your paper is rejected or never cited, irrespective of your native brilliance, you have nonetheless been successful as a poor writer.*
 
 - [📄 *How to write really good articles for premier academic journals*, Peter LaPlaca et al.](https://www.sciencedirect.com/science/article/pii/S001985011730874X)
 
