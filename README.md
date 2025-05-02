@@ -149,6 +149,10 @@ I kept coming back to this video throughout my Ph.D. to remind myself what kind 
 ...and to this one, to remind myself what student not to be 😉
 
 - [🎥 *7 Steps to a Positive Relationship with your PhD Supervisor*, James Arvanitakis](https://youtu.be/0pGyjMaZgQ0?si=dpqbFgXSxOcbQWLP)
+  
+- [🎥 *Finding, reading & using literature as a Ph.D. student*, Kamila Zdybał](https://youtu.be/qum8UQoP2kI?si=UOPjTpxhiBQcU1Dz)
+
+This is my own contribution to this list 🙂
 
 - [📄 *How to complete a PhD?*, Kamila Zdybał](https://www.researchgate.net/publication/377627650_How_to_complete_a_PhD)
 
@@ -187,6 +191,10 @@ This is my own contribution to this list 🙂
 I have a physical copy of this book, if you live in the same town you can contact me 😉
 
 ## On being an early-career academic
+
+- [🎧 *Moving from a PhD to a Postdoc*, Tara Brabazon & Jamie Quinton](https://youtu.be/2IMBsARaESA?si=vS0nsJ47Bm3WxL6u)
+
+- [🎧 *Pondering the Postdoc*, Tara Brabazon & Jamie Quinton](https://youtu.be/L2Y23Q74goI?si=edd5WmnCBpZTq9XV)
 
 - [📖 *Making the Most of the Postdoc*, James Gould](https://www.amazon.com/Making-Most-Postdoc-James-Gould/dp/1032246782)
 
