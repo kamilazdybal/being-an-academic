@@ -26,6 +26,7 @@ All the best to your journey, and I hope that you find this collection helpful! 
 - [On research rigor and research process](#on-research-rigor-and-research-process)
   - [On creativity](#on-creativity)
 - [On being an early-career academic](#on-being-an-early-career-academic)
+- [On the imposter syndrome](#on-the-imposter-syndrome)
 - [On teaching and learning](#on-teaching-and-learning)
 - [On grants](#on-grants)
 - [On scientific collaboration](#on-scientific-collaboration)
@@ -181,6 +182,11 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 
 
+
+- [📄 *Scientific Conjectures and the Growth of Knowledge*, Sanjit Chakraborty](https://link.springer.com/article/10.1007/s40961-021-00231-z)
+
+> 
+
 ### On creativity
 
 - [📄 *Isaac Asimov Asks, “How Do People Get New Ideas?”*, Isaac Asimov](https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas)
@@ -202,12 +208,39 @@ I have a physical copy of this book, if you live in the same town, you can conta
 > 
 
 
+
+## On the imposter syndrome
+
+
+
 ## On teaching and learning
 
 
+- [📄 *Teaching the science of learning*, Yana Weinstein et al.](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y)
+
+> *The proposed explanation for the benefit of interleaving is that switching between different problem types 
+> allows students to acquire the ability to choose the right method for solving different types of problems 
+> rather than learning only the method itself, and not when to apply it.*
 
 
 
+
+- [📄 *No cops in the lecture hall: cheating and what (not) to do about it*, Rashid Amerzaine et al.](https://www.justmathematicscollective.net/cheating.pdf)
+
+> 
+
+
+- [📄 *Educating for Intellectual Virtues: From Theory to Practice*, Jason Baehr](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9752.12023)
+
+>
+
+- [📄 *Massification and the large lecture theatre: from panic to excitement*, James Arvanitakis](https://link.springer.com/article/10.1007/s10734-013-9676-y)
+
+> 
+
+- [📄 *From Bad Apples to Zombies? Walking Dead Leadership in the Contemporary University*, Tara Brabazon](https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/376)
+
+> 
 
 ## On grants
 
@@ -217,16 +250,30 @@ I have a physical copy of this book, if you live in the same town, you can conta
 
 ## On scientific collaboration
 
+- [📄 *The power of two: lessons from a scientific partnership*, Robert V. Farese Jr. et al.](https://www.jci.org/articles/view/145966)
 
+> *Perhaps the most important task is finding a partner who shares your scientific values. 
+> (...) Equally important as scientific compatibility is emotional compatibility. 
+> Partners must have the capacity to handle challenging situations that arise in the relationship judiciously 
+> and with empathy. 
+> Finally, there is the chemistry between partners — that vital yet intangible quality of enjoying being around someone 
+> with a compatible personality. 
+> Thus, in pursuing a partnership, look for someone who fits your values, temperament, and personality.*
 
+- [📄 *It takes two to think*, Itai Yanai & Martin J. Lercher](https://www.nature.com/articles/s41587-023-02074-2)
 
+> *What is the deeper reason for the beneficial effects of talking with a trusted colleague on our creativity? 
+> We speculate that there are underlying evolutionary reasons. 
+> Humans are a social species who evolved to solve problems cooperatively rather than in isolation. 
+> Improvisational discussions seem to be the hidden core ingredient of the creative scientific process, 
+> and yet they are shrouded in misunderstandings. It often seems that the time investment 
+> involved for such discussions hinders our progress, when in fact it advances it. 
+> We may feel that we must grow out of these discussions once we become independent scientists, 
+> when in fact they remain our most powerful tool for expanding our science into the unknown.*
 
 
 
 ## On mentoring
-
-
-
 
 
 
@@ -238,15 +285,14 @@ I have a physical copy of this book, if you live in the same town, you can conta
 
 - [📄 *The misuse of colour in science communication*, Fabio Crameri et al.](https://www.nature.com/articles/s41467-020-19160-7)
 
-> 
-
-
-
+>
 
 ## On writing academic code and developing academic software
 
+- [📄 *Ten simple rules on writing clean and reliable open-source scientific software*, Haley Hunter-Zinck et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009481)
 
+> 
 
+- [📄 *Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks*, Adam Rule et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
 
-
-
+>
