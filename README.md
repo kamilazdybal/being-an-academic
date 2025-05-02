@@ -31,11 +31,11 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 - [On being an early-career academic](#on-being-an-early-career-academic)
 - [On the imposter syndrome](#on-the-imposter-syndrome)
 - [On teaching and learning](#on-teaching-and-learning)
-- [On grants](#on-grants)
 - [On scientific collaboration](#on-scientific-collaboration)
 - [On mentoring](#on-mentoring)
 - [On designing figures and graphics](#on-designing-figures-and-graphics)
-- [On writing academic code and developing academic software](#)
+- [On writing code and developing scientific software](#on-writing-code-and-developing-scientific-software)
+- [On grants](#on-grants)
 
 - - - - 
 
@@ -239,9 +239,9 @@ Beautiful talk!
 
 ### "The Pernicious PhD Supervisor" series by Prof. Tara Brabazon
 
-This amusing series have taught me the taxonomy of the types of supervisors that I would like not to become 😉
+This amusing series have taught me the taxonomy of the types of supervisors that I would like *not* to become 😉
 
-- [🎥 *White pointer shark supervisor*, Tara Brabazon](https://youtu.be/K6UUrvYtmrI?si=mR3ogmPLK28GGsKW)
+- [🎥 *The white pointer shark supervisor*, Tara Brabazon](https://youtu.be/K6UUrvYtmrI?si=mR3ogmPLK28GGsKW)
 - [🎥 *The helicopter supervisor*, Tara Brabazon](https://youtu.be/8UpNJYmOvVA?si=xYAo2Yc0qcvIil3y)
 - [🎥 *The battery hen farmer supervisor*, Tara Brabazon](https://youtu.be/xPx7RDr0E5Y?si=IPFB6GLve45O5nta)
 - [🎥 *The Loch Ness monster supervisor*, Tara Brabazon](https://youtu.be/2SctckxU9lE?si=50AA-wsJ54fav4gu)
@@ -262,7 +262,7 @@ I'm hoping that Prof. Brabazon will also one day create a taxonomy for the ideal
 
 - [📄 *Figure Design*, CommKit](https://mitcommlab.mit.edu/broad/commkit/figure-design/)
 
-## On writing academic code and developing academic software
+## On writing code and developing scientific software
 
 - [📄 *Ten simple rules on writing clean and reliable open-source scientific software*, Haley Hunter-Zinck et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009481)
 
