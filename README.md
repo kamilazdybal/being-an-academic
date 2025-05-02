@@ -86,6 +86,15 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 >
 
+- [📄 *Style Guides and the Garlic, Shallots, and Butter of Scientific Writing*, Darren J. Lipomi](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c01612)
+
+> *One of the wonderful aspects of writing is the freedom one has in constructing an argument 
+> and teaching the reader one’s results.*
+
+- [📖 *Becoming an Academic Writer: 50 Exercises for Paced, Productive, and Powerful Writing*, Patricia Goodson](https://www.amazon.com/Becoming-Academic-Writer-Exercises-Productive/dp/1452203865)
+
+> 
+
 ### On writing mathematics
 
 - [📄 *How to write mathematics*, Paul R. Halmos](https://sites.math.washington.edu//~lind/Resources/Halmos.pdf)
@@ -101,12 +110,17 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
-
 - [📄 *Some Guidelines for Good Mathematical Writing*, Francis Edward Su](https://math.rice.edu/~notlaw/Su-Guidelines_for_Good_Mathematical_Writing.pdf)
 
 > 
 
+
+
 ### On writing journal publications
+
+- [🎥 *How to write a great research paper*, Simon Peyton Jones](https://sms.cam.ac.uk/media/1464870/)
+
+> 
 
 - [📄 *How to write the introduction of a scientific article*, Jorge Faber](https://www.jwfo.org/article/S2212-4438(12)00049-5/fulltext)
 
@@ -176,10 +190,17 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
-
 ## On being a Ph.D. student
 
+- [📄 *How to complete a PhD?*, Kamila Zdybał](https://www.researchgate.net/publication/377627650_How_to_complete_a_PhD)
 
+This is my own contribution to this list 🙂
+
+> 
+
+- [📖 *The A-Z of the PhD Trajectory*, Eva O. L. Lantsoght](https://link.springer.com/book/10.1007/978-3-319-77425-1)
+
+> 
 
 - [📄 *100 PhD rules of the game to successfully complete a doctoral dissertation*, Niamh M. Brennan](https://www.emerald.com/insight/content/doi/10.1108/aaaj-01-2019-030/full/html)
 
@@ -311,6 +332,10 @@ I have a physical copy of this book, if you live in the same town you can contac
 
 >
 
+- [📄 *Figure Design*, CommKit](https://mitcommlab.mit.edu/broad/commkit/figure-design/)
+
+> 
+
 ## On writing academic code and developing academic software
 
 - [📄 *Ten simple rules on writing clean and reliable open-source scientific software*, Haley Hunter-Zinck et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009481)
@@ -320,3 +345,7 @@ I have a physical copy of this book, if you live in the same town you can contac
 - [📄 *Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks*, Adam Rule et al.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)
 
 >
+
+- [📄 *Best Practices for Coding, Organization, and Documentation*, CommKit](https://mitcommlab.mit.edu/broad/commkit/best-practices-for-coding-organization-and-documentation/)
+
+> 
