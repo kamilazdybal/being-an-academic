@@ -23,6 +23,7 @@ All the best to your journey, and I hope that you find this collection helpful! 
 - [On failing](#on-failing)
 - [On being a Ph.D. student](#on-being-a-ph.d.-student)
 - [On research rigor and research process](#on-research-rigor-and-research-process)
+  - [On creativity](#on-creativity)
 - [On being an early-career academic](#on-being-an-early-career-academic)
 - [On teaching and learning](#on-teaching-and-learning)
 - [On grants](#on-grants)
@@ -97,9 +98,15 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
+- [🎥 *LEADERSHIP LAB: The Craft of Writing Effectively*, Larry McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM&feature=youtu.be)
+
+↑ This lecture has been very formative for me, highly recommend.
+
+> 
+
 ## On failing
 
-- [🎧 *Failure (and how to manage it)*, Tara Brabazon](https://www.youtube.com/watch?v=JTwFM51-oqc&t=8s&pp=0gcJCYQJAYcqIYzv)
+- [🎥 *Failure (and how to manage it)*, Tara Brabazon](https://www.youtube.com/watch?v=JTwFM51-oqc&t=8s&pp=0gcJCYQJAYcqIYzv)
 
 > 
 
@@ -132,7 +139,11 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
+- [📖 *Creativity: A Short and Cheerful Guide*, John Cleese](https://www.amazon.com/Creativity-Short-Cheerful-John-Cleese/dp/0385348274)
 
+I have the physical copy of this book, if you live in the same town, you can contact me ;)
+
+> 
 
 ## On being an early-career academic
 
@@ -164,10 +175,6 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 
 ## On mentoring
-
-
-
-
 
 
 
