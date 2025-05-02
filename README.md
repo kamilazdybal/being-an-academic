@@ -25,7 +25,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
   - [On writing journal publications](#on-writing-journal-publications)
   - [On writing mathematics](#on-writing-mathematics)
 - [On failing](#on-failing)
-- [On being a Ph.D. student](#on-being-a-ph.d.-student)
+- [On being a PhD student](#on-being-a-phd-student)
 - [On research rigor and research process](#on-research-rigor-and-research-process)
   - [On creativity](#on-creativity)
 - [On being an early-career academic](#on-being-an-early-career-academic)
@@ -138,7 +138,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 
 - [📄 *What to do when your paper is rejected*, Priya Narasimhan](https://medium.com/profpreneur/learning-to-handle-paper-rejections-as-authors-and-reviewers-a749ae26ac92)
 
-## On being a Ph.D. student
+## On being a PhD student
 
 - [🎥 *The characteristics of the best PhD students*, Tara Brabazon](https://www.youtube.com/watch?v=2ArionKnvXc)
 
