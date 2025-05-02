@@ -120,7 +120,13 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 - [🎥 *How to write a great research paper*, Simon Peyton Jones](https://sms.cam.ac.uk/media/1464870/)
 
-> 
+Beautiful talk, highly recommend 🙂
+
+> *Credit is like love. Credit is a commodity that is infinitely divisible.
+> If I have 10 pounds and I give you 5 pounds, how much do I have left? 5 pounds.
+> If I have love and I give you love, how much love do I have left? As much as I ever had, and maybe more!
+> And credit is just like this; you can say very nice things about other peoples' stuff. (...)
+> So if you've read a paper that you found inspiring, make a moment in your paper to say: It was an inspiring paper.*
 
 - [📄 *How to write the introduction of a scientific article*, Jorge Faber](https://www.jwfo.org/article/S2212-4438(12)00049-5/fulltext)
 
