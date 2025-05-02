@@ -247,6 +247,8 @@ Beautiful talk!
 
 - [🎥 *How to be an awesome supervisor*, Tara Brabazon](https://youtu.be/0uiHwHfssAw?si=hKS-P-3iXpnNq8Hl)
 
+↑ Beautiful discussion on being an ethical and caring academic supervisor.
+
 ### "The Pernicious PhD Supervisor" series by Prof. Tara Brabazon
 
 This amusing series have taught me the taxonomy of the types of supervisors that I would like *not* to become 😉
