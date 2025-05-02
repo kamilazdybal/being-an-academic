@@ -155,6 +155,9 @@ All the best to your journey, and I hope that you find this collection helpful! 
 
 > 
 
+- [📄 *What to do when your paper is rejected*, Priya Narasimhan](https://medium.com/profpreneur/learning-to-handle-paper-rejections-as-authors-and-reviewers-a749ae26ac92)
+
+> 
 
 
 ## On being a Ph.D. student
@@ -192,10 +195,11 @@ I have a physical copy of this book, if you live in the same town, you can conta
 
 ## On being an early-career academic
 
+- [📖 *Making the Most of the Postdoc 1st Edition*, James Gould](https://www.amazon.com/Making-Most-Postdoc-James-Gould/dp/1032246782)
 
+I have a physical copy of this book, if you live in the same town, you can contact me 😉
 
-
-
+> 
 
 
 ## On teaching and learning
