@@ -11,7 +11,7 @@ I hope that you find this collection helpful, and all the best to your academic 
 
 - 🎥 : A video
 - 🎧 : A podcast
-- 📄 : A short article
+- 📄 : An article
 - 📖 : A book
 - 🏛️ : A course
 
