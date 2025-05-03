@@ -164,6 +164,18 @@ This is my own contribution to this list 🙂
 
 ## On research rigor and research process
 
+- [🎧 *A hypothesis is a liability*, Night Science](https://nightscience.buzzsprout.com/1744020/episodes/16252864-67-a-hypothesis-is-a-liability)
+
+- [🎧 *Martin Schwartz and the importance of stupidity in science*, Night Science](https://nightscience.buzzsprout.com/1744020/episodes/17012456-74-martin-schwartz-and-the-importance-of-stupidity-in-science)
+
+- [📄 *The importance of stupidity in scientific research*, Martin A. Schwartz](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
+
+> *Productive stupidity means being ignorant by choice. Focusing
+> on important questions puts us in the awkward position of being
+> ignorant. One of the beautiful things about science is that it allows
+> us to bumble along, getting it wrong time after time, and feel
+> perfectly fine as long as we learn something each time.*
+
 - [📄 *Strong Inference: Certain systematic methods of scientific thinking may produce much more rapid progress than others*, John R. Platt](https://www.science.org/doi/10.1126/science.146.3642.347)
 
 - [📄 *Why Most Published Research Findings Are False*, John P. A. Ioannidis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
@@ -291,6 +303,3 @@ I'm hoping that Prof. Brabazon will also one day create a taxonomy for the ideal
 - [📄 *Best Practices for Coding, Organization, and Documentation*, CommKit](https://mitcommlab.mit.edu/broad/commkit/best-practices-for-coding-organization-and-documentation/)
 
 ## On grants
-
-
-
