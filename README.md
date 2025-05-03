@@ -136,6 +136,10 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 
 - [🎥 *Failure (and how to manage it)*, Tara Brabazon](https://www.youtube.com/watch?v=JTwFM51-oqc&t=8s&pp=0gcJCYQJAYcqIYzv)
 
+- [🎥 *Managing failed experiments: good and bad failures*, Matthias Rillig](https://youtu.be/X3wjm_dxMgY)
+
+- [🎥 *How to deal with manuscript rejections*, Matthias Rillig](https://youtu.be/ZpZNTEHVmdw)
+
 - [📄 *What to do when your paper is rejected*, Priya Narasimhan](https://medium.com/profpreneur/learning-to-handle-paper-rejections-as-authors-and-reviewers-a749ae26ac92)
 
 ## On being a PhD student
@@ -305,3 +309,5 @@ I'm hoping that Prof. Brabazon will also one day create a taxonomy for the ideal
 - [📄 *Best Practices for Coding, Organization, and Documentation*, CommKit](https://mitcommlab.mit.edu/broad/commkit/best-practices-for-coding-organization-and-documentation/)
 
 ## On grants
+
+- [🎥 *Proposal writing strategy: writing research grants to funding agencies*, Matthias Rillig](https://www.youtube.com/watch?v=vHA-8-o0Nyw)
