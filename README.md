@@ -166,6 +166,8 @@ This is my own contribution to this list 🙂
 
 - [🎧 *A hypothesis is a liability*, Night Science](https://nightscience.buzzsprout.com/1744020/episodes/16252864-67-a-hypothesis-is-a-liability)
 
+> *If you ignore the outlier, you might cheat yourself out of the discovery.*
+
 - [🎧 *Martin Schwartz and the importance of stupidity in science*, Night Science](https://nightscience.buzzsprout.com/1744020/episodes/17012456-74-martin-schwartz-and-the-importance-of-stupidity-in-science)
 
 - [📄 *The importance of stupidity in scientific research*, Martin A. Schwartz](https://web.stanford.edu/~fukamit/schwartz-2008.pdf)
