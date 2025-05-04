@@ -31,6 +31,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 - [On being an early-career academic](#on-being-an-early-career-academic)
 - [On the imposter syndrome](#on-the-imposter-syndrome)
 - [On teaching and learning](#on-teaching-and-learning)
+- [On presenting](#on-presenting)
 - [On scientific collaboration](#on-scientific-collaboration)
 - [On mentoring](#on-mentoring)
 - [On designing figures and graphics](#on-designing-figures-and-graphics)
@@ -42,6 +43,22 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 ## On academic writing
 
 ### On the writing craft in general
+
+- [🎥 *Quick fixes to improve your academic writing*, Tara Brabazon](https://youtu.be/0rLWlwqqvEY)
+
+- [🎥 *What is academic writing?*, Tara Brabazon](https://youtu.be/bAqIjL0utnc)
+
+- [🎥 *Drafting and Editing*, Tara Brabazon](https://youtu.be/T6nowyRKJ6A)
+
+- [🎥 *The relationship between reading and writing*, Tara Brabazon](https://youtu.be/m5Qq4iYeTwI)
+
+- [🎥 *Slow writing*, Tara Brabazon](https://youtu.be/mIUVTEd56Fw)
+
+- [🎥 *Fast writing*, Tara Brabazon](https://youtu.be/vIWV3N7X7RM)
+
+- [🎥 *All writing is rewriting*, Tara Brabazon](https://youtu.be/q4Q5DBxZp1o)
+
+- [🎥 *Bad writing*, Tara Brabazon](https://www.youtube.com/watch?v=PNIvUkvUHTs)
 
 - [📄 *Academic Writing, I Love You. Really, I Do.*, Eric Hayot](https://www.jstor.org/stable/10.1086/678157?seq=1#metadata_info_tab_contents)
 
@@ -104,6 +121,14 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 
 ↑ This lecture has been very formative for me, highly recommend.
 
+- [🎥 *Drafting, revising and editing your thesis (and research)*, Tara Brabazon](https://youtu.be/mn0pQ1R1MMY)
+
+- [🎥 *Writing Introductions*, Tara Brabazon](https://www.youtube.com/watch?v=-CU-BH3-Hco)
+
+- [🎥 *Writing the transitions between chapters (of your PhD and books)*, Tara Brabazon](https://www.youtube.com/watch?v=7GcQ7Ul8RFY)
+
+- [🎥 *Writing a Journal Article*, Tara Brabazon](https://youtu.be/N1zLsJKINUo)
+
 - [📄 *How to write the introduction of a scientific article*, Jorge Faber](https://www.jwfo.org/article/S2212-4438(12)00049-5/fulltext)
 
 > *The rigidity and conciseness of scientific language should not be allowed to undermine the elegance of a text.*
@@ -158,6 +183,8 @@ I kept coming back to this video throughout my Ph.D. to remind myself what kind 
 
 This is my own contribution to this list 🙂
 
+- [🎥 *How to stop feeling overwhelmed*, Tara Brabazon](https://youtu.be/7iClfDqQtMA?si=ULVKvX0SXaALvnVk)
+
 - [📄 *The illustrated guide to a Ph.D.*, Matt Might](https://matt.might.net/articles/phd-school-in-pictures/)
 
 - [📄 *How to complete a PhD?*, Kamila Zdybał](https://www.researchgate.net/publication/377627650_How_to_complete_a_PhD)
@@ -165,6 +192,8 @@ This is my own contribution to this list 🙂
 This is my own contribution to this list 🙂
 
 - [📄 *100 PhD rules of the game to successfully complete a doctoral dissertation*, Niamh M. Brennan](https://www.emerald.com/insight/content/doi/10.1108/aaaj-01-2019-030/full/html)
+
+- [📄 *The care and maintenance of your adviser*, Hugh Kearns & Maria Gardiner](https://www.researchgate.net/publication/236627026_The_care_and_maintenance_of_your_adviser)
 
 - [📖 *The A-Z of the PhD Trajectory*, Eva O. L. Lantsoght](https://link.springer.com/book/10.1007/978-3-319-77425-1)
 
@@ -193,6 +222,9 @@ This is my own contribution to this list 🙂
 - [📖 *What is this thing called science*, Alan Chalmers](https://ebookppsunp.wordpress.com/wp-content/uploads/2016/06/alan_chalmers_what_is_this_thing_called_sciencebookfi-org.pdf)
 
 - [📖 *The Craft of Research*, Wayne C. Booth et al.](https://library.uniq.edu.iq/storage/books/file/The%20Craft%20of%20Research/1667121038craft.pdf)
+
+> *(...) you can always work with readers inclined to say, I don’t agree.
+> What you can’t survive are readers who shrug and say, I don’t care.*
 
 - [📖 *On Being a Scientist: A Guide to Responsible Conduct in Research*, National Academy of Sciences](https://nap.nationalacademies.org/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in)
 
@@ -255,6 +287,10 @@ I have a physical copy of this book, if you live in the same town you can contac
 Beautiful talk!
 
 - [🎥 *Communicating Science to Nonscientists*, Jean-luc Doumont](https://youtu.be/IFu3jaLmse0?si=QFHXRpVyNEgOHI12)
+
+- [🎥*How to Speak*, Patrick Winston](https://youtu.be/Unzc731iCUY?si=ox6Ax_3uaHEEFSq7)
+
+↑ Highly recommend!
 
 ## On scientific collaboration
 
