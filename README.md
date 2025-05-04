@@ -248,6 +248,12 @@ This is my own contribution to this list 🙂
 
 - [📄 *Isaac Asimov Asks, “How Do People Get New Ideas?”*, Isaac Asimov](https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas)
 
+> *It is only afterward that a new idea seems reasonable. 
+> To begin with, it usually seems unreasonable. 
+> It seems the height of unreason to suppose the earth was round instead of flat, 
+> or that it moved instead of the sun, or that objects required a force to stop them when in motion, 
+> instead of a force to keep them moving, and so on.*
+
 - [📖 *Creativity: A Short and Cheerful Guide*, John Cleese](https://www.amazon.com/Creativity-Short-Cheerful-John-Cleese/dp/0385348274)
 
 I have a physical copy of this book, if you live in the same town you can contact me 😉
