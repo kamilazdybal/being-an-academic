@@ -93,6 +93,8 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 
 - [📖 *The Elements of Style*, William Strunk](https://daoyuan14.github.io/elos.pdf)
 
+- [📖 *Bird by Bird: Some Instructions on Writing and Life*, Anne Lamott](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)
+
 - [🏛️ *Writing in the Sciences*, Kristin Sainani](https://www.coursera.org/learn/sciwrite)
 
 ### On writing mathematics
