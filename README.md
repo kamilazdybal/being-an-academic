@@ -288,9 +288,9 @@ Beautiful talk!
 
 - [🎥 *Communicating Science to Nonscientists*, Jean-luc Doumont](https://youtu.be/IFu3jaLmse0?si=QFHXRpVyNEgOHI12)
 
-- [🎥*How to Speak*, Patrick Winston](https://youtu.be/Unzc731iCUY?si=ox6Ax_3uaHEEFSq7)
+- [🎥 *How to Speak*, Patrick Winston](https://youtu.be/Unzc731iCUY?si=ox6Ax_3uaHEEFSq7)
 
-↑ Highly recommend!
+↑ Highly recommend, especially for preparing for faculty interview talks. 
 
 ## On scientific collaboration
 
