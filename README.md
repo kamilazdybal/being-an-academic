@@ -158,6 +158,8 @@ I kept coming back to this video throughout my Ph.D. to remind myself what kind 
 
 This is my own contribution to this list 🙂
 
+- [📄 *The illustrated guide to a Ph.D.*, Matt Might](https://matt.might.net/articles/phd-school-in-pictures/)
+
 - [📄 *How to complete a PhD?*, Kamila Zdybał](https://www.researchgate.net/publication/377627650_How_to_complete_a_PhD)
 
 This is my own contribution to this list 🙂
@@ -199,6 +201,14 @@ This is my own contribution to this list 🙂
 - [📖 *Scientific Method in Practice*, Hugh G. Gauch Jr.](https://www.amazon.com/Scientific-Method-Practice-Hugh-Gauch/dp/0521017084)
 
 - [📖 *Scientific Method in Brief*, Hugh G. Gauch Jr.](https://www.amazon.com/Scientific-Method-Brief-Hugh-Gauch/dp/1107666724)
+
+- [📖 *The Logic of Scientific Discovery*, Karl Popper](https://www.amazon.com/Logic-Scientific-Discovery-Routledge-Classics/dp/0415278449)
+
+↑ This is a philosophical text that is a pretty difficult read! 🙂
+
+- [📖 *Microbe Hunters*, Paul de Kruif](https://www.amazon.com/Microbe-Hunters-Paul-Kruif/dp/0156027771)
+
+↑ This is a popular science book, but it presents in a very engaging way how research progresses and how scientific reasoning develops. 
 
 ### On creativity
 
