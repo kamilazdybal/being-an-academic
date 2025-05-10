@@ -260,6 +260,10 @@ I have a physical copy of this book, if you live in the same town you can contac
 
 ## On being an early-career academic
 
+- [🎥 *How I structure my Zotero database (as a researcher)*, Kamila Zdybał](https://youtu.be/H_kDgH14jy8)
+
+This is my own contribution to this list 🙂
+
 - [🎧 *Moving from a PhD to a Postdoc*, Tara Brabazon & Jamie Quinton](https://youtu.be/2IMBsARaESA?si=vS0nsJ47Bm3WxL6u)
 
 - [🎧 *Pondering the Postdoc*, Tara Brabazon & Jamie Quinton](https://youtu.be/L2Y23Q74goI?si=edd5WmnCBpZTq9XV)
