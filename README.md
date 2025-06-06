@@ -193,6 +193,8 @@ This is my own contribution to this list 🙂
 
 This is my own contribution to this list 🙂
 
+- [📄 *Elements of a successful graduate career*, Bill Freeman](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
+
 - [📄 *100 PhD rules of the game to successfully complete a doctoral dissertation*, Niamh M. Brennan](https://www.emerald.com/insight/content/doi/10.1108/aaaj-01-2019-030/full/html)
 
 - [📄 *The care and maintenance of your adviser*, Hugh Kearns & Maria Gardiner](https://www.researchgate.net/publication/236627026_The_care_and_maintenance_of_your_adviser)
@@ -214,6 +216,8 @@ This is my own contribution to this list 🙂
 > ignorant. One of the beautiful things about science is that it allows
 > us to bumble along, getting it wrong time after time, and feel
 > perfectly fine as long as we learn something each time.*
+
+- [📄 *How to do research*, Bill Freeman](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 
 - [📄 *Strong Inference: Certain systematic methods of scientific thinking may produce much more rapid progress than others*, John R. Platt](https://www.science.org/doi/10.1126/science.146.3642.347)
 
