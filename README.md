@@ -27,6 +27,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 - [On managing failure](#on-managing-failure)
 - [On being a PhD student](#on-being-a-phd-student)
 - [On research rigor and research process](#on-research-rigor-and-research-process)
+  - [On productivity](#on-productivity)
   - [On creativity](#on-creativity)
 - [On being an early-career academic](#on-being-an-early-career-academic)
 - [On the imposter syndrome](#on-the-imposter-syndrome)
@@ -248,6 +249,14 @@ This is my own contribution to this list 🙂
 
 ↑ This is a popular science book, but it presents in a very engaging way how research progresses and how scientific reasoning develops. 
 
+### On productivity
+
+- [📄 *How Distractions At Work Take Up More Time Than You Think*, Blake Thorne](https://blog.idonethis.com/distractions-at-work/)
+
+- [📄 *The Cost of Interrupted Work: More Speed and Stress*, Gloria Mark et al.](https://ics.uci.edu/~gmark/chi08-mark.pdf)
+
+- [📄 *No Task Left Behind? Examining the Nature of Fragmented Work*, Gloria Mark et al.](https://ics.uci.edu/~gmark/CHI2005.pdf)
+
 ### On creativity
 
 - [📄 *Isaac Asimov Asks, “How Do People Get New Ideas?”*, Isaac Asimov](https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas)
@@ -281,6 +290,15 @@ I have a physical copy of this book, if you live in the same town you can contac
 - [🎥 *Impostor syndrome*, Tara Brabazon](https://youtu.be/6I9pIqjtnKo?si=564hcv3ko4ZBZkKz)
 
 ## On teaching and learning
+
+- [🎧 *How to Focus to Change Your Brain*, Andrew Huberman](https://www.hubermanlab.com/episode/how-to-focus-to-change-your-brain)
+
+- [🎧 *How to Learn Faster by Using Failures, Movement & Balance*, Andrew Huberman](https://www.hubermanlab.com/episode/essentials-how-to-learn-faster-by-using-failures-movement-balance)
+
+- [🎧 *Understand and Use Dreams to Learn and Forget*, Andrew Huberman](https://www.hubermanlab.com/episode/understanding-and-using-dreams-to-learn-and-to-forget)
+
+↑ These three episodes will teach you the science of neuroplasticity and learning in the adult life.
+They taught me the science of managing three important chemical ingredients of learning: acetylcholine, epinephrine, and dopamine.
 
 - [🎧 *Optimal Protocols for Studying & Learning*, Andrew Huberman](https://www.hubermanlab.com/episode/optimal-protocols-for-studying-learning)
 
