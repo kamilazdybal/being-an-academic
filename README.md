@@ -257,6 +257,8 @@ This is my own contribution to this list 🙂
 
 - [📄 *No Task Left Behind? Examining the Nature of Fragmented Work*, Gloria Mark et al.](https://ics.uci.edu/~gmark/CHI2005.pdf)
 
+- [📄 *On time management*, Terence Tao](https://terrytao.wordpress.com/2008/08/07/on-time-management/)
+
 ### On creativity
 
 - [📄 *Isaac Asimov Asks, “How Do People Get New Ideas?”*, Isaac Asimov](https://www.technologyreview.com/2014/10/20/169899/isaac-asimov-asks-how-do-people-get-new-ideas)
@@ -280,6 +282,8 @@ This is my own contribution to this list 🙂
 - [🎧 *Moving from a PhD to a Postdoc*, Tara Brabazon & Jamie Quinton](https://youtu.be/2IMBsARaESA?si=vS0nsJ47Bm3WxL6u)
 
 - [🎧 *Pondering the Postdoc*, Tara Brabazon & Jamie Quinton](https://youtu.be/L2Y23Q74goI?si=edd5WmnCBpZTq9XV)
+
+- [📄 *Checklists for Stat-ML assistant professors*, Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists2.html)
 
 - [📖 *Making the Most of the Postdoc*, James Gould](https://www.amazon.com/Making-Most-Postdoc-James-Gould/dp/1032246782)
 
