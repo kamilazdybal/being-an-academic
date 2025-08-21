@@ -96,6 +96,10 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 
 - [📖 *Bird by Bird: Some Instructions on Writing and Life*, Anne Lamott](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016)
 
+- [📖 *Writing Science in Plain English*, Anne E. Greene](https://www.amazon.com/Writing-Science-English-Chicago-Publishing/dp/022602637X)
+
+I have a physical copy of this book, if you live in the same town you can contact me 😉
+
 - [🏛️ *Writing in the Sciences*, Kristin Sainani](https://www.coursera.org/learn/sciwrite)
 
 ### On writing mathematics
