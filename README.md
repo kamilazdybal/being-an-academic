@@ -252,7 +252,7 @@ I have a physical copy of this book, if you live in the same town you can contac
 ↑ This is a philosophical text that is a pretty difficult read! 🙂
 
 I have a physical copy of this book, if you live in the same town you can contact me 😉
-- 
+
 - [📖 *Conjectures and Refutations*, Karl Popper](https://www.amazon.com/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941)
 
 ↑ This is a philosophical text that is a pretty difficult read! 🙂
