@@ -237,6 +237,8 @@ This is my own contribution to this list 🙂
 > *(...) you can always work with readers inclined to say, I don’t agree.
 > What you can’t survive are readers who shrug and say, I don’t care.*
 
+I have a physical copy of this book, if you live in the same town you can contact me 😉
+
 - [📖 *On Being a Scientist: A Guide to Responsible Conduct in Research*, National Academy of Sciences](https://nap.nationalacademies.org/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in)
 
 - [📖 *Scientific Integrity: Text and Cases in Responsible Conduct of Research*, Francis L. Macrina](https://www.amazon.com/Scientific-Integrity-Responsible-Conduct-Research/dp/1555816614)
@@ -248,6 +250,14 @@ This is my own contribution to this list 🙂
 - [📖 *The Logic of Scientific Discovery*, Karl Popper](https://www.amazon.com/Logic-Scientific-Discovery-Routledge-Classics/dp/0415278449)
 
 ↑ This is a philosophical text that is a pretty difficult read! 🙂
+
+I have a physical copy of this book, if you live in the same town you can contact me 😉
+- 
+- [📖 *Conjectures and Refutations*, Karl Popper](https://www.amazon.com/Conjectures-Refutations-Scientific-Knowledge-Routledge/dp/0415285941)
+
+↑ This is a philosophical text that is a pretty difficult read! 🙂
+
+I have a physical copy of this book, if you live in the same town you can contact me 😉
 
 - [📖 *Microbe Hunters*, Paul de Kruif](https://www.amazon.com/Microbe-Hunters-Paul-Kruif/dp/0156027771)
 
