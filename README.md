@@ -411,3 +411,5 @@ I'm hoping that Prof. Brabazon will also one day create a taxonomy for the ideal
 ## On grants
 
 - [🎥 *Proposal writing strategy: writing research grants to funding agencies*, Matthias Rillig](https://www.youtube.com/watch?v=vHA-8-o0Nyw)
+
+- [📄 *Everything I learnt about grant writing without going mad*, Marc Geddes](https://marcgeddes.uk/opinion/everything-i-learnt-about-grant-writing-without-going-mad)
