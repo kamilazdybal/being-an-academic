@@ -265,6 +265,14 @@ I have a physical copy of this book, if you live in the same town you can contac
 
 ↑ This is a popular science book, but it presents in a very engaging way how research progresses and how scientific reasoning develops. 
 
+### On needing the time to think
+
+- [📄 *The Slow Science Manifesto*, The Slow Science Academy](http://slow-science.org/)
+
+- [📖 *The Slow Professor: Challenging the Culture of Speed in the Academy*, Maggie Berg and Barbara K. Seeber](https://www.amazon.com/Slow-Professor-Challenging-Culture-Academy/dp/1442645563)
+
+I have a physical copy of this book, if you live in the same town you can contact me 😉
+
 ### On productivity
 
 - [📄 *How Distractions At Work Take Up More Time Than You Think*, Blake Thorne](https://blog.idonethis.com/distractions-at-work/)
