@@ -27,6 +27,7 @@ Otherwise, there is no particular hierarchy, you can start with whichever item y
 - [On managing failure](#on-managing-failure)
 - [On being a PhD student](#on-being-a-phd-student)
 - [On research rigor and research process](#on-research-rigor-and-research-process)
+- - [On needing the time to think](#on-needing-the-time-to-think)
   - [On productivity](#on-productivity)
   - [On creativity](#on-creativity)
 - [On being an early-career academic](#on-being-an-early-career-academic)
