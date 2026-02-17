@@ -233,6 +233,8 @@ This is my own contribution to this list 🙂
 
 - [📄 *Scientific Conjectures and the Growth of Knowledge*, Sanjit Chakraborty](https://link.springer.com/article/10.1007/s40961-021-00231-z)
 
+- [📄 *The Turing Way handbook to reproducible, ethical and collaborative data science.*, The Turing Way Community](https://book.the-turing-way.org/)
+
 - [📖 *What is this thing called science*, Alan Chalmers](https://ebookppsunp.wordpress.com/wp-content/uploads/2016/06/alan_chalmers_what_is_this_thing_called_sciencebookfi-org.pdf)
 
 - [📖 *The Craft of Research*, Wayne C. Booth et al.](https://library.uniq.edu.iq/storage/books/file/The%20Craft%20of%20Research/1667121038craft.pdf)
